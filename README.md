@@ -5,3 +5,6 @@ This small app lets you to play around with basic sounds via pressing keys on yo
 ## Known issues
 1) You are currently only able to use letters of latin alphabet.
 2) Console prints errors if code is running not from the local server.
+
+## What's that for?
+I was just playing around with Howl.js and Paper.js.
